@@ -24,3 +24,7 @@ struct ContentView_Previews: PreviewProvider {
         ContentView()
     }
 }
+
+func print(){
+    print("hello")
+}
